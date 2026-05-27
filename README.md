@@ -8,18 +8,15 @@ My work focuses on implementing practical rendering systems for performance-cons
 
 ## Research Interests
 
-- Mobile ray tracing
-- Real-time global illumination
+- Real-time rendering
+- Mobile rendeinrg
+- Global illumination
 - Dynamic Diffuse Global Illumination, DDGI
-- Vulkan ray tracing pipeline
-- Vulkan ray query
+- Ray tracing
 - Hybrid rendering
-- Deferred rendering
-- Path tracing
 - 3D Gaussian rendering
-- GPU-driven rendering
-- CUDA/Vulkan interoperability
-- Real-time rendering performance profiling
+- Physically Based Rendering (PBR)
+- Game engine
 
 ---
 
