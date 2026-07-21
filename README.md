@@ -73,7 +73,6 @@ Representative components:
 | Vulkan Full Ray Tracing | Full Vulkan ray tracing path for 3D Gaussian rendering. |
 | Gaussian Enclosing Pass | Preprocessing pass executed with a Vulkan compute pipeline. |
 | Particle Rendering Pass | Per-frame rendering pass using Vulkan ray tracing or compute-based execution. |
-| Vulkan Hybrid Renderer | Hybrid renderer using a graphics geometry pass and a ray tracing lighting pass. |
 
 ---
 
