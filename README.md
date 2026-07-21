@@ -1,19 +1,17 @@
 # Taekgeun You
 
-Graphics researcher and rendering system developer focused on **mobile ray tracing**, **real-time global illumination**, and **Vulkan-based GPU rendering systems**.
+Graphics engineer focused on **real-time rendering**.
 
-My work focuses on implementing practical rendering systems for performance-constrained environments, especially mobile GPUs. I am interested in Vulkan ray tracing, ray query, DDGI, hybrid rendering, CUDA/Vulkan interoperability, and real-time graphics performance profiling.
+My work focuses on implementing practical rendering systems for performance-constrained environments, especially mobile GPUs.
+I am interested in real-time rendering techniques, including rasterization, ray tracing, global illumination, and performance profiling of real-time graphics systems.
 
 ---
 
 ## Research Interests
 
-- Real-time rendering
+- Rasterization/Ray tracing/Hybrid Rendering
 - Mobile rendeinrg
 - Global illumination
-- Dynamic Diffuse Global Illumination, DDGI
-- Ray tracing
-- Hybrid rendering
 - 3D Gaussian rendering
 - Physically Based Rendering (PBR)
 - Game engine
@@ -31,17 +29,9 @@ It was developed to implement and evaluate ray tracing and global illumination t
 Main topics:
 
 - Mobile-oriented Vulkan renderer
-- Vulkan ray tracing pipeline
-- Vulkan ray query
+- Vulkan ray tracing pipeline/ray query
 - Deferred rasterization renderer
-- Full ray tracing, FRT
-- Full ray query, FRQ
-- Hybrid ray tracing, HRT
-- Hybrid ray query, HRQ
 - DDGI-based global illumination
-- Adaptive probe update budget
-- Probe importance metric
-- Runtime renderer switching through UI
 
 ---
 
@@ -54,13 +44,9 @@ Instead of tracing rays across the entire screen, this project detects shadow bo
 Main topics:
 
 - Hybrid shadow rendering
-- Shadow map edge detection
-- Selective ray tracing
+- Shadow map edge detection and selective ray tracing
 - Vulkan-CUDA interoperability
-- CUDA-based image processing
-- Sobel filtering
-- GPU resource sharing between Vulkan and CUDA
-- Shadow quality improvement with reduced ray tracing workload
+- CUDA-based sobel filtering
 
 ---
 
@@ -73,14 +59,8 @@ The project includes full ray tracing and hybrid rendering paths for 3D Gaussian
 Main topics:
 
 - 3D Gaussian rendering
-- Vulkan ray tracing pipeline
-- Vulkan compute pipeline
-- Ray query-style rendering path
-- Hybrid Vulkan rendering
-- Gaussian enclosing preprocessing
-- Particle rendering pass
+- Vulkan ray tracing pipeline/compute pipeline
 - Mobile execution experiments
-- 3DGS / 3DGRT comparison experiments
 
 Representative components:
 
@@ -102,12 +82,8 @@ This repository includes rendering implementations ranging from CPU-based ray tr
 Main topics:
 
 - CPU ray tracing
-- OpenGL deferred rendering
-- Deferred renderer optimization
+- OpenGL deferred renderer optimization using stencil pass
 - NVIDIA OptiX ray tracing
-- Shader programming
-- C++ graphics programming
-- CUDA and GLSL-based rendering components
 
 Representative projects:
 
@@ -124,8 +100,6 @@ Representative projects:
 ### Graphics APIs
 
 - Vulkan
-- Vulkan Ray Tracing Pipeline
-- Vulkan Ray Query
 - OpenGL
 - NVIDIA OptiX
 - CUDA
@@ -133,35 +107,9 @@ Representative projects:
 ### Rendering Techniques
 
 - Deferred rendering
-- Full ray tracing
-- Hybrid ray tracing
-- Whitted-style ray tracing
-- Path tracing
+- Ray tracing/Hybrid rendering
 - DDGI
-- Shadow mapping
-- Selective ray tracing
-- Probe-based global illumination
 - 3D Gaussian rendering
-
-### GPU Programming
-
-- GLSL shader programming
-- CUDA kernel programming
-- Vulkan compute pipeline
-- GPU image processing
-- GPU synchronization
-- External memory and semaphore sharing
-- Parallel sorting and probe prioritization
-- Ray tracing pipeline construction
-- Acceleration structure management
-
-### Asset and Scene Handling
-
-- glTF scene loading
-- Custom scene configuration files
-- Camera keyframe configuration
-- DDGI volume configuration
-- Research-oriented rendering assets
 
 ---
 
@@ -183,27 +131,16 @@ This paper presents a Vulkan-based mobile ray tracing renderer and analyzes its 
 Taekgeun You  
 Graduate School of Sogang University, Seoul, Korea, 2026
 
+[Paper](http://www.dcollection.net/handler/sogang/000000082452)
 ---
 
 ### I3D 2026 Poster
 
 **Mobile-DDGI: Lightweight Probe-Based Global Illumination via Adaptive Budget Allocation**  
 T. You, W. Seo, D. Han, and I. Ihm  
-2026 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D '26 Posters, San Francisco, U.S.A., May 2026
+2026 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D '26 Posters, San Francisco, U.S.A., May 2026 (Best Poster Award)
 
----
-
-## References and Influences
-
-My work is influenced by research and engineering work on:
-
-- Dynamic Diffuse Global Illumination
-- RTXGI / DDGI
-- Adaptive Dynamic Global Illumination
-- Ubisoft's real-time ray tracing and global illumination techniques
-- Sascha Willems' Vulkan examples
-- Vulkan-based GPU sorting and rendering utilities
-- 3D Gaussian Splatting and ray tracing-based Gaussian rendering
+[Paper](https://dl.acm.org/doi/10.1145/3807895.3807920)
 
 ---
 
