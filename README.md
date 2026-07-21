@@ -7,7 +7,7 @@ I am interested in real-time rendering techniques, including rasterization, ray 
 
 You can find my CV and portfolio here.
 
-[[CV](./CV_Taekgeun_You.pdf)] [[Portfolio(Korean)](./Portfolio_Taekgeun_You(Korean).pdf)]
+[[CV](./Files/CV_Taekgeun_You.pdf)] [[Portfolio(Korean)](./Files/Portfolio_Taekgeun_You(Korean).pdf)]
 
 ---
 
