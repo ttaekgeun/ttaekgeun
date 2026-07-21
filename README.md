@@ -122,7 +122,6 @@ Taekgeun You, Sungho Yoon, Sehee Jo, Woong Seo, and Insung Ihm
 *Journal of the Korea Computer Graphics Society*, Vol. 31, No. 3, pp. 171–181, July 2025
 
 This paper presents a Vulkan-based mobile ray tracing renderer and analyzes its performance on mobile platforms. The renderer compares full ray tracing and rasterization-based hybrid ray tracing architectures, and evaluates both Vulkan ray tracing pipeline and ray query implementations. It also proposes an adaptive light attenuation function to reduce shadow ray shading cost in multi-light scenes.
-
 [Paper](http://journal.cg-korea.org/archive/view_article?pid=jkcgs-31-3-171)
 
 ### Master's Thesis
@@ -130,8 +129,8 @@ This paper presents a Vulkan-based mobile ray tracing renderer and analyzes its 
 **Development and Performance Profiling of a Mobile Ray Tracing System Supporting Global Illumination**  
 Taekgeun You  
 Graduate School of Sogang University, Seoul, Korea, 2026
-
 [Paper](http://www.dcollection.net/handler/sogang/000000082452)
+
 ---
 
 ### I3D 2026 Poster
@@ -139,7 +138,6 @@ Graduate School of Sogang University, Seoul, Korea, 2026
 **Mobile-DDGI: Lightweight Probe-Based Global Illumination via Adaptive Budget Allocation**  
 T. You, W. Seo, D. Han, and I. Ihm  
 2026 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D '26 Posters, San Francisco, U.S.A., May 2026 (Best Poster Award)
-
 [Paper](https://dl.acm.org/doi/10.1145/3807895.3807920)
 
 ---
