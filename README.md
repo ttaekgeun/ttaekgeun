@@ -5,6 +5,11 @@ Graphics engineer focused on **real-time rendering**.
 My work focuses on implementing practical rendering systems for performance-constrained environments, especially mobile GPUs.
 I am interested in real-time rendering techniques, including rasterization, ray tracing, global illumination, and performance profiling of real-time graphics systems.
 
+You can find my CV and portfolio here.
+
+[CV](./CV_Taekgeun_You.pdf)
+ [Portfolio(Korean)](./Portfolio_Taekgeun_You(Korean).pdf)
+
 ---
 
 ## Research Interests
