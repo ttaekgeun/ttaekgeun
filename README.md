@@ -41,7 +41,7 @@ Main topics:
 
 ### Shadow Edge Selective Ray Tracing
 
-[Shadow Edge Selective Ray Tracing](https://github.com/ttaekgeun/ShadowEdgeSelectiveRayTracing) is a Vulkan-based rendering project that improves shadow quality by applying ray tracing selectively to shadow edge regions generated from shadow maps.
+[Shadow Edge Selective Ray Tracing](https://github.com/ttaekgeun/ShadowEdgeSelectiveRT) is a Vulkan-based rendering project that improves shadow quality by applying ray tracing selectively to shadow edge regions generated from shadow maps.
 
 Instead of tracing rays across the entire screen, this project detects shadow boundary regions and applies ray tracing only where shadow artifacts are most visible.
 
