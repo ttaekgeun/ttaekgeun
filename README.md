@@ -56,7 +56,7 @@ Main topics:
 
 ### 3DGVRT
 
-[3DGVRT](https://github.com/sebbang99/3DGVRT), or **3D Gaussian Vulkan Ray Tracing**, is a Vulkan-based research renderer for experimenting with ray tracing approaches for 3D Gaussian rendering.
+[3DGVRT](https://github.com/sebbang99/3DGVRT), or **3D Gaussian Vulkan Ray Tracing**, is a Vulkan-based renderer designed to experiment with ray-tracing approaches for 3D Gaussian rendering on mobile platforms.
 
 The project includes full ray tracing and hybrid rendering paths for 3D Gaussian rendering. It explores Vulkan ray tracing, Vulkan compute preprocessing, and hybrid graphics/ray tracing pipeline design.
 
