@@ -9,6 +9,10 @@ You can find my CV and portfolio here.
 
 [[CV](./Files/CV_Taekgeun_You.pdf)] [[Portfolio(Korean)](./Files/Portfolio_Taekgeun_You(Korean).pdf)]
 
+My blog is also available here:
+
+[https://ttaekgeun.github.io/](https://ttaekgeun.github.io/)
+
 ---
 
 ## Research Interests
