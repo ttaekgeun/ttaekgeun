@@ -1,13 +1,13 @@
 # Taekgeun You
 
-Graphics engineer focused on **real-time rendering**.
+Hi! I'm a graphics engineer focused on **real-time rendering**.
 
 My work focuses on implementing practical rendering systems for performance-constrained environments, especially mobile GPUs.
 I am interested in real-time rendering techniques, including rasterization, ray tracing, global illumination, and performance profiling of real-time graphics systems.
 
-You can find my CV and portfolio here.
+You can find my CV here.
 
-[[CV](./Files/CV_Taekgeun_You.pdf)] [[Portfolio(Korean)](./Files/Portfolio_Taekgeun_You(Korean).pdf)]
+[[CV](./Files/CV_Taekgeun_You.pdf)]
 
 My blog is also available here:
 
